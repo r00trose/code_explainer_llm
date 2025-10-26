@@ -132,11 +132,6 @@ This is a course assignment, but feel free to fork and improve!
 
 MIT License - feel free to use for learning purposes.
 
-## 👤 Author
-
-r00trose 
-LLM Engineering Course - Week 1 Assignment
-
 ## 🙏 Acknowledgments
 
 - **Ed Donner** - Course instructor for the excellent LLM Engineering course
